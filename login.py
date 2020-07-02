@@ -39,7 +39,7 @@ class Login_System:
         if self.uname.get()=="" or self.pass_.get()=="": 
             messagebox.showerror("Error","All fields ar required!!")
 
-        elif self.uname.get()=="admin" and self.pass_.get()=="admin":
+        elif self.uname.get()=="admin" and self.pass_.get()=="admin@123":
             #messagebox.showinfo("Successfull",f"Welcome {self.uname.get()}")
             self.root.destroy()
             import bill
