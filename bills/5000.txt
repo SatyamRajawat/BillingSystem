@@ -1,0 +1,28 @@
+	 Welcome in WEBCODE Retails
+	     Mobile : 79*****291
+
+ 		2020-04-29  Wed,09:13:06 PM
+ Bill Number   : 5000
+ Customer Name :  c czv
+ Phone Number  : 21132
+ ==========================================
+ Products		QTY 		Price
+ ==========================================
+ Bath Soap		5 		200
+ Face Cream		5 		900
+ Face wash		2 		120
+ Food Oil		20 		2400
+ Daal		121 		9680
+ Wheat		12 		360
+ Tea		1 		180
+ Maza		6 		240
+ Cock		1 		38
+ Thums Up		1 		45
+ Limca		1 		25
+ Sprite		4 		140
+ ------------------------------------------
+ Cosmetic Tax			: Rs. 61.0
+ Cosmetic Tax			: Rs. 631.0
+ Cosmetic Tax			: Rs. 24.4
+ Total Bill			: Rs. 15044.4
+ ------------------------------------------

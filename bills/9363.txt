@@ -1,0 +1,33 @@
+	 Welcome in WEBCODE Retails
+	     Mobile : 79*****291
+
+ 		2020-04-29  Wed,09:16:44 PM
+ Bill Number   : 9363
+ Customer Name : satya
+ Phone Number  : 564614
+ ==========================================
+ Products		QTY 		Price
+ ==========================================
+ Bath Soap		1212 		48480
+ Face wash		11 		660
+ Hair Spray		31 		5890
+ Hair Gell		131 		18340
+ Body Loshan		3 		540
+ Rice		121 		4840
+ Food Oil		2 		240
+ Daal		131 		10480
+ Wheat		31 		930
+ Sugar		31 		1240
+ Tea		313 		56340
+ Maza		13 		520
+ Cock		131 		4978
+ Frooti		1 		20
+ Thums Up		313 		14085
+ Limca		13 		325
+ Sprite		1 		35
+ ------------------------------------------
+ Cosmetic Tax			: Rs. 3695.5
+ Cosmetic Tax			: Rs. 3703.5
+ Cosmetic Tax			: Rs. 998.15
+ Total Bill			: Rs. 176340.15
+ ------------------------------------------

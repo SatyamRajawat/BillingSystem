@@ -1,0 +1,32 @@
+	 Welcome in WEBCODE Retails
+	     Mobile : 79*****291
+
+ 		2020-05-04  Mon,05:06:59 PM
+ Bill Number   : 5645
+ Customer Name : Sheelu
+ Phone Number  : 78616416
+ ==========================================
+ Products		QTY 		Price
+ ==========================================
+ Bath Soap		10 		400
+ Face Cream		2 		360
+ Face wash		5 		300
+ Hair Gell		2 		280
+ Body Loshan		1 		180
+ Rice		4 		160
+ Food Oil		2 		240
+ Daal		5 		400
+ Wheat		20 		600
+ Sugar		5 		200
+ Tea		1 		180
+ Maza		2 		80
+ Frooti		5 		100
+ Thums Up		1 		45
+ Limca		4 		100
+ Sprite		2 		70
+ ------------------------------------------
+ Cosmetic Tax			: Rs. 76.0
+ Cosmetic Tax			: Rs. 89.0
+ Cosmetic Tax			: Rs. 19.75
+ Total Bill			: Rs. 3879.75
+ ------------------------------------------

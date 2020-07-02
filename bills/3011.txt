@@ -1,0 +1,19 @@
+	 Welcome in WEBCODE Retails
+	     Mobile : 79*****291
+
+ 		2020-05-12  Tue,03:28:03 PM
+ Bill Number   : 3011
+ Customer Name : satyam
+ Phone Number  : 456565656
+ ==========================================
+ Products		QTY 		Price
+ ==========================================
+ Face Cream		4 		720
+ Food Oil		1 		120
+ Cock		4 		152
+ ------------------------------------------
+ Cosmetic Tax			: Rs. 36.0
+ Cosmetic Tax			: Rs. 6.0
+ Cosmetic Tax			: Rs. 7.6
+ Total Bill			: Rs. 1041.6
+ ------------------------------------------

@@ -1,0 +1,21 @@
+	 Welcome in WEBCODE Retails
+	     Mobile : 79*****291
+
+ 		2020-07-02  Thu,02:27:38 PM
+ Bill Number   : 2939
+ Customer Name : sfsdd
+ Phone Number  : fgfhgjhk
+ ==========================================
+ Products		QTY 		Price
+ ==========================================
+ Bath Soap		25 		1000
+ Rice		4 		160
+ Daal		44 		3520
+ Cock		1 		38
+ Frooti		11 		220
+ ------------------------------------------
+ Cosmetic Tax			: Rs. 50.0
+ Cosmetic Tax			: Rs. 184.0
+ Cosmetic Tax			: Rs. 12.9
+ Total Bill			: Rs. 5184.9
+ ------------------------------------------
