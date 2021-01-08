@@ -1,11 +1,12 @@
-version: 3.8.5
-
 jobs:
   build:
     working_directory: ~/circleci-python
     docker:
       - image: "circleci/python:3.8.5"
     steps:
-      - checkout
-      - run: python3 login.py
-
+    
+        command: |
+            sudo pip install pipenv
+            pipenv install pillow
+          - checkout
+          - run: python3 app.py
