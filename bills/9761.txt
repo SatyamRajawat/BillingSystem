@@ -1,0 +1,22 @@
+	 Welcome in WEBCODE Retails
+	     Mobile : 79*****291
+
+ 		2021-01-08  Fri,09:23:59 AM
+ Bill Number   : 9761
+ Customer Name : Satyam
+ Phone Number  : 798765
+ ==========================================
+ Products		QTY 		Price
+ ==========================================
+ Bath Soap		1 		40
+ Hair Spray		2 		380
+ Food Oil		3 		360
+ Sugar		1 		40
+ Cock		2 		76
+ Limca		2 		50
+ ------------------------------------------
+ Cosmetic Tax			: Rs. 21.0
+ Cosmetic Tax			: Rs. 20.0
+ Cosmetic Tax			: Rs. 6.3
+ Total Bill			: Rs. 993.3
+ ------------------------------------------
