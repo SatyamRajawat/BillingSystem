@@ -12,5 +12,5 @@ jobs:
       command: |
           sudo pip install pipenv
           pipenv install pillow
-          - checkout
-          - run: python3 app.py
+      - checkout
+      - run: python3 app.py
